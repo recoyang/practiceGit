@@ -2,6 +2,7 @@
 
 hello,this is the first thing I wrote about gi
 
+feature add new feature again
 
 hahahha----feature
 
